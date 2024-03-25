@@ -1,6 +1,6 @@
 {
   "name": "simple-react-hierarchy-tree",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Hierarchy component is react js",
   "main": "index.js",
   "scripts": {
@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/icrescenti/ReactHierarchy#readme",
   "dependencies": {
+    "@babel/plugin-syntax-jsx": "^7.24.1",
     "@babel/preset-react": "^7.24.1"
   }
 }
