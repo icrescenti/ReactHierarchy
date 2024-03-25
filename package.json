@@ -1,6 +1,6 @@
 {
   "name": "simple-react-hierarchy-tree",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Hierarchy component is react js",
   "main": "index.js",
   "scripts": {
