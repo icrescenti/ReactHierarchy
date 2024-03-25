@@ -1,0 +1,25 @@
+{
+  "name": "simple-react-hierarchy-tree",
+  "version": "1.0.0",
+  "description": "Hierarchy component is react js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icrescenti/ReactHierarchy.git"
+  },
+  "keywords": [
+    "react",
+    "tree",
+    "hierarchy",
+    "frontend"
+  ],
+  "author": "icrescenti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/icrescenti/ReactHierarchy/issues"
+  },
+  "homepage": "https://github.com/icrescenti/ReactHierarchy#readme"
+}
